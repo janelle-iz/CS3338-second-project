@@ -1,0 +1,57 @@
+commit bd63b98c96a920bcaebabab06c0948ad4a20de1d
+Merge: bbd28fa 3f83e22
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Thu Feb 5 17:52:38 2026 -0800
+
+    Resolving merge conflict, adding two divs to index.html
+
+commit 3f83e2294dd723f3e26efa170b3f093ddf3db9d3
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 19:23:03 2026 -0800
+
+    Addition to index.html for fav game
+
+commit bbd28faef3d3b50fe60daeb603fa76c9f37ee3fd
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 19:14:39 2026 -0800
+
+    Addition in index.html for fav food
+
+commit 5c597457992c7ba73ecaf6eb3136d1ca4f2d98f7
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 18:55:54 2026 -0800
+
+    Removing accidental README from info-fill branch
+
+commit bca7787440222cb5100ce57ab77d98af42d45e07
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 18:28:02 2026 -0800
+
+    Commit README file
+
+commit 9b6ffae8235d312c4f23a68a4d5d89af2cbff6f4
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 15:19:37 2026 -0800
+
+    Commit README file
+
+commit 8d94afccf9f43862f307b8d9ea7e4490781a88e2
+Merge: 1d2bfc0 4b63b57
+Author: Janelle <166447333+janelle-iz@users.noreply.github.com>
+Date:   Wed Feb 4 15:12:12 2026 -0800
+
+    Merge pull request #1 from janelle-iz/info-fill
+    
+    Merge info-fill and main
+
+commit 4b63b575391c418c53d6cd17e2bc8c95c2e1df23
+Author: janelle-iz <janellearivera10@gmail.com>
+Date:   Wed Feb 4 14:57:11 2026 -0800
+
+    Fill in the blanks to index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
